@@ -15,14 +15,6 @@ const slides = [
 		"image":"slide4.png",
 		"tagLine":"Autocollants <span>avec découpe laser sur mesure</span>",
 	},
-	{
-		"image":"slide5.jpg",
-		"tagLine":"Grand choix de couleurs <span>de CMJN aux pantones</span>",
-	},
-	{
-		"image":"slide6.png",
-		"tagLine":"Autocollants <span>avec découpe laser sur mesure</span>",
-	}
 ];
 
 
